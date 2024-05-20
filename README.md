@@ -10,11 +10,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link]()
-- Live Site URL: [Link]()
+- Solution URL: [Link](https://github.com/MrUnAnonymous/3-column-preview-card-solution)
+- Live Site URL: [Link](https://3-column-preview-card-solution-snowy.vercel.app/)
 
 ## My process
 
@@ -42,7 +38,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ## Author
 
